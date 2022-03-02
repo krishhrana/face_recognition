@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="27"
+    build-mode="FULL"
+    density="tvdpi"
+    format="10"
+    plugin-version="3.2.1"
+    timestamp="1596532225592"
+    token="1621337997743470909"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="0" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="0" />
+    <task
+        name="verifier"
+        duration="0" />
+
+    <artifact
+        location="/Users/krishrana/Downloads/face_recognition-master-5/android/app/build/intermediates/resources/instant-run/debug/resources-debug.apk"
+        type="SPLIT" />
+
+</instant-run>

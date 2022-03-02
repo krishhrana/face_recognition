@@ -1,0 +1,10 @@
+
+__pycache__/
+
+output/
+
+weights\.pkl
+
+InputVideos1/
+
+FinalVideos/

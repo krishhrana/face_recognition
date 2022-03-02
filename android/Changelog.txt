@@ -1,0 +1,23 @@
+# Changelog
+
+[0.2] 2020/09/02
+
+## Added
+- A new face recognition model (DeepMaskFacev10.tflite) which gives a better accuracy as compared to the previous model. 
+- Image resizing is changed to (112,112) to be compatible with the new model.
+- Threshold is changed from 0.7 to 1.2
+
+
+
+[0.2] - 2020/08/13
+
+## Added
+- Feature where unique ids are assigned to the people which are unknown and the ids for the known faces are retained (the accuracy of assigning and retaining ids depend on the recognition model which will be improved in later releases)
+
+## Fixed
+- IndexOutOfBounds error caused during registering multiple faces.
+- IndexOutOfBounds error caused while saving the face images which were partially out of screen.
+- Registration of multiple embedding of the same person during a single session. 
+
+## Known errors
+- App crashes when launched from saved state ie. from multitasking view.

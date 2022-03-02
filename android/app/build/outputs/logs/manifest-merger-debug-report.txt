@@ -1,0 +1,431 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/krishrana/Downloads/face_recognition-master-5/android/app/src/main/AndroidManifest.xml:1:1-30:12
+INJECTED from /Users/krishrana/Downloads/face_recognition-master-5/android/app/src/main/AndroidManifest.xml:1:1-30:12
+INJECTED from /Users/krishrana/Downloads/face_recognition-master-5/android/app/src/main/AndroidManifest.xml:1:1-30:12
+INJECTED from /Users/krishrana/Downloads/face_recognition-master-5/android/app/src/main/AndroidManifest.xml:1:1-30:12
+MERGED from [com.google.android.material:material:1.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/7c710c0ed87e7bfda6f0c340b4f68464/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0.aar/9366d315c2c5c09c8f0e780835fffc82/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-database:19.3.1] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/firebase-database-19.3.1.aar/93c9b2d0a5bbf654ff6181105af36259/AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.firebase:firebase-storage:19.1.1] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/firebase-storage-19.1.1.aar/b97443daf244d25b1919d2f82cc7accd/AndroidManifest.xml:15:1-39:12
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/firebase-auth-interop-18.0.0.aar/2e0346ba7d467378771e559be38bed20/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-database-collection:17.0.1] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/firebase-database-collection-17.0.1.aar/b82b43c6d2502cf774c8d709784b0eee/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.mlkit:face-detection:16.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/face-detection-16.0.0.aar/2721355419af0e6b4ce388849cc2ea2b/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-mlkit-face-detection:16.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/play-services-mlkit-face-detection-16.0.0.aar/26324832df46302d6bc456b3feb921eb/AndroidManifest.xml:2:1-18:12
+MERGED from [com.google.android.gms:play-services-vision-face-contour-internal:16.0.1] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/play-services-vision-face-contour-internal-16.0.1.aar/43edb12c8ca42e176ef94cef59adc466/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-vision:20.1.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/play-services-vision-20.1.0.aar/d4f66d8cea08f0a18875965513412158/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-vision-common:19.1.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-19.1.0.aar/5986e9f8aa88851c01131b6fbf5e2854/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.mlkit:vision-common:16.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/vision-common-16.0.0.aar/d3fd2b53fce927fa0843d1cd16868a2e/AndroidManifest.xml:2:1-18:12
+MERGED from [com.google.mlkit:common:16.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/common-16.0.0.aar/52de3f3393167d60b9f278cf236a7cdc/AndroidManifest.xml:2:1-26:12
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-17.0.0.aar/0d8d706422510c166fb2ecf4173aa188/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-flags:17.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/play-services-flags-17.0.0.aar/61d9a8ea88d2deba882a6ed75bd66b7f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/play-services-phenotype-17.0.0.aar/f47443631ab95d1cd7e6f9c1297ae107/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/play-services-base-17.0.0.aar/07dd6ad29cd25634ea966ee95c2e555e/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-common:19.3.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/jetified-firebase-common-19.3.0.aar/d3745eb559d8f6708c39cc9f83ea687c/AndroidManifest.xml:15:1-39:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/play-services-tasks-17.0.0.aar/5e3b0318f93f54e4582b54fbab11c8b2/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-17.0.0.aar/5f5997201540cbcbd05b5ad11dd645a7/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/6537289293f94faee9342ab05d407855/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/b74f9bb2ed60de3a8194e36dc8a3d85e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/recyclerview-1.0.0.aar/02a1fc305268b9a3443c3b71160db9ff/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/59fcbffd755c56a58e4ea60f1522a24d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/83dc1d62fc18b4cd06177d2dfafa3c50/AndroidManifest.xml:17:1-22:12
+MERGED from [org.tensorflow:tensorflow-lite:0.0.0-nightly] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/tensorflow-lite-0.0.0-nightly.aar/9dca4a12d135ff898bd9815b2138c152/AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/98f06be497b437b7bfe69bf7ebce0490/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.0.aar/647b6499e29536af53b8cbffa0947363/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/8550805be21e998b07dc0e6a406363d1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/92e347b0f2f66493e87c582c291d2395/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/c47436ae3f2ba5b43200f3de4a2b3656/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/312e4afdf6cd7abd8ce66d2676197edd/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/transition-1.0.0.aar/f6df075f96dbb8d734d8ab3d3524160d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/72a98b1602213db51dfcfcb589832558/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/bd40148752d09c75eb9b924db275c533/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/cf0da146e41d88814af443bf15277f2e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/d4d85a7da64a7f8b26d94364f3da0f1b/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/0e692d1f86794a0518fe8108de74c2c8/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/eca182f6ed6ea4acd8f8d97cb65ec87c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/cardview-1.0.0.aar/783c1b3c394858480fd845911bb7487b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-components:16.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/jetified-firebase-components-16.0.0.aar/c1ffea3bf52795d830592df5ce260e22/AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/bf5a7a6391e39a4dbbad58ad2ecc12dc/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/53a9834ed635555437cefe20aa34df1b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/d8d816317bd4dc5b09abc9049932976c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/7b973de37ecf0ab9a98b1db76c3034c7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/1c42bbb0f48f38ad46df5acf46a1fd98/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/553f745639e70de22f3e38dc136646ee/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.2] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/jetified-transport-backend-cct-2.2.2.aar/88aea107c5e778709de41f75ef7375e7/AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.2] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/jetified-transport-runtime-2.2.2.aar/54fccf8874644805db51d399908694f4/AndroidManifest.xml:15:1-41:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/8aa7781c245899fc76e531da6092c510/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/a225e644e35b6fb4053be8a94a7babd1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/f305ba93e272761240f53663f8588198/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-encoders-json:16.1.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/firebase-encoders-json-16.1.0.aar/571893af2f8d7cf9560c3a071a807584/AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/exifinterface-1.0.0.aar/e5661303a2b000d629a9d64035d1b6be/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.datatransport:transport-api:2.2.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/transport-api-2.2.0.aar/9ac17336c4d0a003cf49916fd8e7a6f8/AndroidManifest.xml:15:1-22:12
+INJECTED from /Users/krishrana/Downloads/face_recognition-master-5/android/app/src/main/AndroidManifest.xml:1:1-30:12
+INJECTED from /Users/krishrana/Downloads/face_recognition-master-5/android/app/src/main/AndroidManifest.xml:1:1-30:12
+INJECTED from /Users/krishrana/Downloads/face_recognition-master-5/android/app/src/main/AndroidManifest.xml:1:1-30:12
+	package
+		ADDED from /Users/krishrana/Downloads/face_recognition-master-5/android/app/src/main/AndroidManifest.xml:2:5-53
+		INJECTED from /Users/krishrana/Downloads/face_recognition-master-5/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/krishrana/Downloads/face_recognition-master-5/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/krishrana/Downloads/face_recognition-master-5/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/krishrana/Downloads/face_recognition-master-5/android/app/src/main/AndroidManifest.xml:1:1-30:12
+		INJECTED from /Users/krishrana/Downloads/face_recognition-master-5/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/krishrana/Downloads/face_recognition-master-5/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/krishrana/Downloads/face_recognition-master-5/android/app/src/main/AndroidManifest.xml:1:1-30:12
+		INJECTED from /Users/krishrana/Downloads/face_recognition-master-5/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/krishrana/Downloads/face_recognition-master-5/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-sdk
+ADDED from /Users/krishrana/Downloads/face_recognition-master-5/android/app/src/main/AndroidManifest.xml:4:5-17
+INJECTED from /Users/krishrana/Downloads/face_recognition-master-5/android/app/src/main/AndroidManifest.xml:4:5-17
+INJECTED from /Users/krishrana/Downloads/face_recognition-master-5/android/app/src/main/AndroidManifest.xml:4:5-17
+MERGED from [com.google.android.material:material:1.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/7c710c0ed87e7bfda6f0c340b4f68464/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/7c710c0ed87e7bfda6f0c340b4f68464/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0.aar/9366d315c2c5c09c8f0e780835fffc82/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0.aar/9366d315c2c5c09c8f0e780835fffc82/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database:19.3.1] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/firebase-database-19.3.1.aar/93c9b2d0a5bbf654ff6181105af36259/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-database:19.3.1] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/firebase-database-19.3.1.aar/93c9b2d0a5bbf654ff6181105af36259/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-storage:19.1.1] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/firebase-storage-19.1.1.aar/b97443daf244d25b1919d2f82cc7accd/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-storage:19.1.1] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/firebase-storage-19.1.1.aar/b97443daf244d25b1919d2f82cc7accd/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/firebase-auth-interop-18.0.0.aar/2e0346ba7d467378771e559be38bed20/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/firebase-auth-interop-18.0.0.aar/2e0346ba7d467378771e559be38bed20/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database-collection:17.0.1] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/firebase-database-collection-17.0.1.aar/b82b43c6d2502cf774c8d709784b0eee/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-database-collection:17.0.1] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/firebase-database-collection-17.0.1.aar/b82b43c6d2502cf774c8d709784b0eee/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.mlkit:face-detection:16.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/face-detection-16.0.0.aar/2721355419af0e6b4ce388849cc2ea2b/AndroidManifest.xml:6:5-44
+MERGED from [com.google.mlkit:face-detection:16.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/face-detection-16.0.0.aar/2721355419af0e6b4ce388849cc2ea2b/AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-mlkit-face-detection:16.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/play-services-mlkit-face-detection-16.0.0.aar/26324832df46302d6bc456b3feb921eb/AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-mlkit-face-detection:16.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/play-services-mlkit-face-detection-16.0.0.aar/26324832df46302d6bc456b3feb921eb/AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-vision-face-contour-internal:16.0.1] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/play-services-vision-face-contour-internal-16.0.1.aar/43edb12c8ca42e176ef94cef59adc466/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-face-contour-internal:16.0.1] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/play-services-vision-face-contour-internal-16.0.1.aar/43edb12c8ca42e176ef94cef59adc466/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision:20.1.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/play-services-vision-20.1.0.aar/d4f66d8cea08f0a18875965513412158/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision:20.1.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/play-services-vision-20.1.0.aar/d4f66d8cea08f0a18875965513412158/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:19.1.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-19.1.0.aar/5986e9f8aa88851c01131b6fbf5e2854/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:19.1.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-19.1.0.aar/5986e9f8aa88851c01131b6fbf5e2854/AndroidManifest.xml:5:5-44
+MERGED from [com.google.mlkit:vision-common:16.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/vision-common-16.0.0.aar/d3fd2b53fce927fa0843d1cd16868a2e/AndroidManifest.xml:6:5-44
+MERGED from [com.google.mlkit:vision-common:16.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/vision-common-16.0.0.aar/d3fd2b53fce927fa0843d1cd16868a2e/AndroidManifest.xml:6:5-44
+MERGED from [com.google.mlkit:common:16.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/common-16.0.0.aar/52de3f3393167d60b9f278cf236a7cdc/AndroidManifest.xml:6:5-44
+MERGED from [com.google.mlkit:common:16.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/common-16.0.0.aar/52de3f3393167d60b9f278cf236a7cdc/AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-17.0.0.aar/0d8d706422510c166fb2ecf4173aa188/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-17.0.0.aar/0d8d706422510c166fb2ecf4173aa188/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:17.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/play-services-flags-17.0.0.aar/61d9a8ea88d2deba882a6ed75bd66b7f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:17.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/play-services-flags-17.0.0.aar/61d9a8ea88d2deba882a6ed75bd66b7f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/play-services-phenotype-17.0.0.aar/f47443631ab95d1cd7e6f9c1297ae107/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/play-services-phenotype-17.0.0.aar/f47443631ab95d1cd7e6f9c1297ae107/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/play-services-base-17.0.0.aar/07dd6ad29cd25634ea966ee95c2e555e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/play-services-base-17.0.0.aar/07dd6ad29cd25634ea966ee95c2e555e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:19.3.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/jetified-firebase-common-19.3.0.aar/d3745eb559d8f6708c39cc9f83ea687c/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-common:19.3.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/jetified-firebase-common-19.3.0.aar/d3745eb559d8f6708c39cc9f83ea687c/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/play-services-tasks-17.0.0.aar/5e3b0318f93f54e4582b54fbab11c8b2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/play-services-tasks-17.0.0.aar/5e3b0318f93f54e4582b54fbab11c8b2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-17.0.0.aar/5f5997201540cbcbd05b5ad11dd645a7/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-17.0.0.aar/5f5997201540cbcbd05b5ad11dd645a7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/6537289293f94faee9342ab05d407855/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/6537289293f94faee9342ab05d407855/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/b74f9bb2ed60de3a8194e36dc8a3d85e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/b74f9bb2ed60de3a8194e36dc8a3d85e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/recyclerview-1.0.0.aar/02a1fc305268b9a3443c3b71160db9ff/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/recyclerview-1.0.0.aar/02a1fc305268b9a3443c3b71160db9ff/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/59fcbffd755c56a58e4ea60f1522a24d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/59fcbffd755c56a58e4ea60f1522a24d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/83dc1d62fc18b4cd06177d2dfafa3c50/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/83dc1d62fc18b4cd06177d2dfafa3c50/AndroidManifest.xml:20:5-44
+MERGED from [org.tensorflow:tensorflow-lite:0.0.0-nightly] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/tensorflow-lite-0.0.0-nightly.aar/9dca4a12d135ff898bd9815b2138c152/AndroidManifest.xml:7:5-8:41
+MERGED from [org.tensorflow:tensorflow-lite:0.0.0-nightly] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/tensorflow-lite-0.0.0-nightly.aar/9dca4a12d135ff898bd9815b2138c152/AndroidManifest.xml:7:5-8:41
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/98f06be497b437b7bfe69bf7ebce0490/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/98f06be497b437b7bfe69bf7ebce0490/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.0.aar/647b6499e29536af53b8cbffa0947363/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.0.aar/647b6499e29536af53b8cbffa0947363/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/8550805be21e998b07dc0e6a406363d1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/8550805be21e998b07dc0e6a406363d1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/92e347b0f2f66493e87c582c291d2395/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/92e347b0f2f66493e87c582c291d2395/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/c47436ae3f2ba5b43200f3de4a2b3656/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/c47436ae3f2ba5b43200f3de4a2b3656/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/312e4afdf6cd7abd8ce66d2676197edd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/312e4afdf6cd7abd8ce66d2676197edd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/transition-1.0.0.aar/f6df075f96dbb8d734d8ab3d3524160d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/transition-1.0.0.aar/f6df075f96dbb8d734d8ab3d3524160d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/72a98b1602213db51dfcfcb589832558/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/72a98b1602213db51dfcfcb589832558/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/bd40148752d09c75eb9b924db275c533/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/bd40148752d09c75eb9b924db275c533/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/cf0da146e41d88814af443bf15277f2e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/cf0da146e41d88814af443bf15277f2e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/d4d85a7da64a7f8b26d94364f3da0f1b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/d4d85a7da64a7f8b26d94364f3da0f1b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/0e692d1f86794a0518fe8108de74c2c8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/0e692d1f86794a0518fe8108de74c2c8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/eca182f6ed6ea4acd8f8d97cb65ec87c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/eca182f6ed6ea4acd8f8d97cb65ec87c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/cardview-1.0.0.aar/783c1b3c394858480fd845911bb7487b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/cardview-1.0.0.aar/783c1b3c394858480fd845911bb7487b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-components:16.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/jetified-firebase-components-16.0.0.aar/c1ffea3bf52795d830592df5ce260e22/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:16.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/jetified-firebase-components-16.0.0.aar/c1ffea3bf52795d830592df5ce260e22/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/bf5a7a6391e39a4dbbad58ad2ecc12dc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/bf5a7a6391e39a4dbbad58ad2ecc12dc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/53a9834ed635555437cefe20aa34df1b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/53a9834ed635555437cefe20aa34df1b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/d8d816317bd4dc5b09abc9049932976c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/d8d816317bd4dc5b09abc9049932976c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/7b973de37ecf0ab9a98b1db76c3034c7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/7b973de37ecf0ab9a98b1db76c3034c7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/1c42bbb0f48f38ad46df5acf46a1fd98/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/1c42bbb0f48f38ad46df5acf46a1fd98/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/553f745639e70de22f3e38dc136646ee/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/553f745639e70de22f3e38dc136646ee/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.2] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/jetified-transport-backend-cct-2.2.2.aar/88aea107c5e778709de41f75ef7375e7/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.2] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/jetified-transport-backend-cct-2.2.2.aar/88aea107c5e778709de41f75ef7375e7/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.2] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/jetified-transport-runtime-2.2.2.aar/54fccf8874644805db51d399908694f4/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.2] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/jetified-transport-runtime-2.2.2.aar/54fccf8874644805db51d399908694f4/AndroidManifest.xml:18:5-20:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/8aa7781c245899fc76e531da6092c510/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/8aa7781c245899fc76e531da6092c510/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/a225e644e35b6fb4053be8a94a7babd1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/a225e644e35b6fb4053be8a94a7babd1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/f305ba93e272761240f53663f8588198/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/f305ba93e272761240f53663f8588198/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-encoders-json:16.1.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/firebase-encoders-json-16.1.0.aar/571893af2f8d7cf9560c3a071a807584/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:16.1.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/firebase-encoders-json-16.1.0.aar/571893af2f8d7cf9560c3a071a807584/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/exifinterface-1.0.0.aar/e5661303a2b000d629a9d64035d1b6be/AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/exifinterface-1.0.0.aar/e5661303a2b000d629a9d64035d1b6be/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.datatransport:transport-api:2.2.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/transport-api-2.2.0.aar/9ac17336c4d0a003cf49916fd8e7a6f8/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:2.2.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/transport-api-2.2.0.aar/9ac17336c4d0a003cf49916fd8e7a6f8/AndroidManifest.xml:18:5-20:41
+INJECTED from /Users/krishrana/Downloads/face_recognition-master-5/android/app/src/main/AndroidManifest.xml:4:5-17
+INJECTED from /Users/krishrana/Downloads/face_recognition-master-5/android/app/src/main/AndroidManifest.xml:4:5-17
+	android:targetSdkVersion
+		INJECTED from /Users/krishrana/Downloads/face_recognition-master-5/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/krishrana/Downloads/face_recognition-master-5/android/app/src/main/AndroidManifest.xml:4:5-17
+		INJECTED from /Users/krishrana/Downloads/face_recognition-master-5/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/krishrana/Downloads/face_recognition-master-5/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/krishrana/Downloads/face_recognition-master-5/android/app/src/main/AndroidManifest.xml:4:5-17
+		MERGED from /Users/krishrana/Downloads/face_recognition-master-5/android/app/src/main/AndroidManifest.xml:4:5-17
+		INJECTED from /Users/krishrana/Downloads/face_recognition-master-5/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/krishrana/Downloads/face_recognition-master-5/android/app/src/main/AndroidManifest.xml:5:5-66
+MERGED from [com.google.firebase:firebase-database:19.3.1] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/firebase-database-19.3.1.aar/93c9b2d0a5bbf654ff6181105af36259/AndroidManifest.xml:26:5-67
+MERGED from [com.google.firebase:firebase-database:19.3.1] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/firebase-database-19.3.1.aar/93c9b2d0a5bbf654ff6181105af36259/AndroidManifest.xml:26:5-67
+MERGED from [com.google.firebase:firebase-storage:19.1.1] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/firebase-storage-19.1.1.aar/b97443daf244d25b1919d2f82cc7accd/AndroidManifest.xml:27:5-67
+MERGED from [com.google.firebase:firebase-storage:19.1.1] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/firebase-storage-19.1.1.aar/b97443daf244d25b1919d2f82cc7accd/AndroidManifest.xml:27:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.2] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/jetified-transport-backend-cct-2.2.2.aar/88aea107c5e778709de41f75ef7375e7/AndroidManifest.xml:26:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.2] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/jetified-transport-backend-cct-2.2.2.aar/88aea107c5e778709de41f75ef7375e7/AndroidManifest.xml:26:5-67
+	android:name
+		ADDED from /Users/krishrana/Downloads/face_recognition-master-5/android/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.CAMERA
+ADDED from /Users/krishrana/Downloads/face_recognition-master-5/android/app/src/main/AndroidManifest.xml:6:5-65
+	android:name
+		ADDED from /Users/krishrana/Downloads/face_recognition-master-5/android/app/src/main/AndroidManifest.xml:6:22-62
+uses-feature#android.hardware.camera
+ADDED from /Users/krishrana/Downloads/face_recognition-master-5/android/app/src/main/AndroidManifest.xml:8:5-60
+	android:name
+		ADDED from /Users/krishrana/Downloads/face_recognition-master-5/android/app/src/main/AndroidManifest.xml:8:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from /Users/krishrana/Downloads/face_recognition-master-5/android/app/src/main/AndroidManifest.xml:9:5-70
+	android:name
+		ADDED from /Users/krishrana/Downloads/face_recognition-master-5/android/app/src/main/AndroidManifest.xml:9:19-67
+application
+ADDED from /Users/krishrana/Downloads/face_recognition-master-5/android/app/src/main/AndroidManifest.xml:11:5-29:19
+MERGED from [com.google.android.material:material:1.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/7c710c0ed87e7bfda6f0c340b4f68464/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/7c710c0ed87e7bfda6f0c340b4f68464/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-database:19.3.1] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/firebase-database-19.3.1.aar/93c9b2d0a5bbf654ff6181105af36259/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.firebase:firebase-database:19.3.1] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/firebase-database-19.3.1.aar/93c9b2d0a5bbf654ff6181105af36259/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.firebase:firebase-storage:19.1.1] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/firebase-storage-19.1.1.aar/b97443daf244d25b1919d2f82cc7accd/AndroidManifest.xml:29:5-37:19
+MERGED from [com.google.firebase:firebase-storage:19.1.1] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/firebase-storage-19.1.1.aar/b97443daf244d25b1919d2f82cc7accd/AndroidManifest.xml:29:5-37:19
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/firebase-auth-interop-18.0.0.aar/2e0346ba7d467378771e559be38bed20/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/firebase-auth-interop-18.0.0.aar/2e0346ba7d467378771e559be38bed20/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-mlkit-face-detection:16.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/play-services-mlkit-face-detection-16.0.0.aar/26324832df46302d6bc456b3feb921eb/AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.android.gms:play-services-mlkit-face-detection:16.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/play-services-mlkit-face-detection-16.0.0.aar/26324832df46302d6bc456b3feb921eb/AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.android.gms:play-services-vision-face-contour-internal:16.0.1] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/play-services-vision-face-contour-internal-16.0.1.aar/43edb12c8ca42e176ef94cef59adc466/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-face-contour-internal:16.0.1] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/play-services-vision-face-contour-internal-16.0.1.aar/43edb12c8ca42e176ef94cef59adc466/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision:20.1.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/play-services-vision-20.1.0.aar/d4f66d8cea08f0a18875965513412158/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision:20.1.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/play-services-vision-20.1.0.aar/d4f66d8cea08f0a18875965513412158/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:19.1.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-19.1.0.aar/5986e9f8aa88851c01131b6fbf5e2854/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:19.1.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-19.1.0.aar/5986e9f8aa88851c01131b6fbf5e2854/AndroidManifest.xml:7:5-20
+MERGED from [com.google.mlkit:vision-common:16.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/vision-common-16.0.0.aar/d3fd2b53fce927fa0843d1cd16868a2e/AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.mlkit:vision-common:16.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/vision-common-16.0.0.aar/d3fd2b53fce927fa0843d1cd16868a2e/AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.mlkit:common:16.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/common-16.0.0.aar/52de3f3393167d60b9f278cf236a7cdc/AndroidManifest.xml:8:5-24:19
+MERGED from [com.google.mlkit:common:16.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/common-16.0.0.aar/52de3f3393167d60b9f278cf236a7cdc/AndroidManifest.xml:8:5-24:19
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-17.0.0.aar/0d8d706422510c166fb2ecf4173aa188/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-17.0.0.aar/0d8d706422510c166fb2ecf4173aa188/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/play-services-phenotype-17.0.0.aar/f47443631ab95d1cd7e6f9c1297ae107/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/play-services-phenotype-17.0.0.aar/f47443631ab95d1cd7e6f9c1297ae107/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/play-services-base-17.0.0.aar/07dd6ad29cd25634ea966ee95c2e555e/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/play-services-base-17.0.0.aar/07dd6ad29cd25634ea966ee95c2e555e/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-common:19.3.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/jetified-firebase-common-19.3.0.aar/d3745eb559d8f6708c39cc9f83ea687c/AndroidManifest.xml:25:5-37:19
+MERGED from [com.google.firebase:firebase-common:19.3.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/jetified-firebase-common-19.3.0.aar/d3745eb559d8f6708c39cc9f83ea687c/AndroidManifest.xml:25:5-37:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/play-services-tasks-17.0.0.aar/5e3b0318f93f54e4582b54fbab11c8b2/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/play-services-tasks-17.0.0.aar/5e3b0318f93f54e4582b54fbab11c8b2/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-17.0.0.aar/5f5997201540cbcbd05b5ad11dd645a7/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-17.0.0.aar/5f5997201540cbcbd05b5ad11dd645a7/AndroidManifest.xml:22:5-26:19
+MERGED from [org.tensorflow:tensorflow-lite:0.0.0-nightly] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/tensorflow-lite-0.0.0-nightly.aar/9dca4a12d135ff898bd9815b2138c152/AndroidManifest.xml:10:5-20
+MERGED from [org.tensorflow:tensorflow-lite:0.0.0-nightly] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/tensorflow-lite-0.0.0-nightly.aar/9dca4a12d135ff898bd9815b2138c152/AndroidManifest.xml:10:5-20
+MERGED from [androidx.core:core:1.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/d4d85a7da64a7f8b26d94364f3da0f1b/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/d4d85a7da64a7f8b26d94364f3da0f1b/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/0e692d1f86794a0518fe8108de74c2c8/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/0e692d1f86794a0518fe8108de74c2c8/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.2] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/jetified-transport-backend-cct-2.2.2.aar/88aea107c5e778709de41f75ef7375e7/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.2] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/jetified-transport-backend-cct-2.2.2.aar/88aea107c5e778709de41f75ef7375e7/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.2] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/jetified-transport-runtime-2.2.2.aar/54fccf8874644805db51d399908694f4/AndroidManifest.xml:25:5-39:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.2] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/jetified-transport-runtime-2.2.2.aar/54fccf8874644805db51d399908694f4/AndroidManifest.xml:25:5-39:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/d4d85a7da64a7f8b26d94364f3da0f1b/AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from /Users/krishrana/Downloads/face_recognition-master-5/android/app/src/main/AndroidManifest.xml:16:9-35
+	android:label
+		ADDED from /Users/krishrana/Downloads/face_recognition-master-5/android/app/src/main/AndroidManifest.xml:14:9-48
+	android:roundIcon
+		ADDED from /Users/krishrana/Downloads/face_recognition-master-5/android/app/src/main/AndroidManifest.xml:15:9-62
+	android:icon
+		ADDED from /Users/krishrana/Downloads/face_recognition-master-5/android/app/src/main/AndroidManifest.xml:13:9-51
+	android:allowBackup
+		ADDED from /Users/krishrana/Downloads/face_recognition-master-5/android/app/src/main/AndroidManifest.xml:12:9-36
+	android:theme
+		ADDED from /Users/krishrana/Downloads/face_recognition-master-5/android/app/src/main/AndroidManifest.xml:17:9-56
+activity#org.tensorflow.lite.examples.detection.DetectorActivity
+ADDED from /Users/krishrana/Downloads/face_recognition-master-5/android/app/src/main/AndroidManifest.xml:19:9-27:20
+	android:screenOrientation
+		ADDED from /Users/krishrana/Downloads/face_recognition-master-5/android/app/src/main/AndroidManifest.xml:22:13-49
+	android:label
+		ADDED from /Users/krishrana/Downloads/face_recognition-master-5/android/app/src/main/AndroidManifest.xml:21:13-52
+	android:name
+		ADDED from /Users/krishrana/Downloads/face_recognition-master-5/android/app/src/main/AndroidManifest.xml:20:13-45
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/krishrana/Downloads/face_recognition-master-5/android/app/src/main/AndroidManifest.xml:23:13-26:29
+action#android.intent.action.MAIN
+ADDED from /Users/krishrana/Downloads/face_recognition-master-5/android/app/src/main/AndroidManifest.xml:24:17-69
+	android:name
+		ADDED from /Users/krishrana/Downloads/face_recognition-master-5/android/app/src/main/AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/krishrana/Downloads/face_recognition-master-5/android/app/src/main/AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from /Users/krishrana/Downloads/face_recognition-master-5/android/app/src/main/AndroidManifest.xml:25:27-74
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-database:19.3.1] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/firebase-database-19.3.1.aar/93c9b2d0a5bbf654ff6181105af36259/AndroidManifest.xml:25:5-79
+MERGED from [com.google.firebase:firebase-storage:19.1.1] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/firebase-storage-19.1.1.aar/b97443daf244d25b1919d2f82cc7accd/AndroidManifest.xml:26:5-79
+MERGED from [com.google.firebase:firebase-storage:19.1.1] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/firebase-storage-19.1.1.aar/b97443daf244d25b1919d2f82cc7accd/AndroidManifest.xml:26:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.2] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/jetified-transport-backend-cct-2.2.2.aar/88aea107c5e778709de41f75ef7375e7/AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.2] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/jetified-transport-backend-cct-2.2.2.aar/88aea107c5e778709de41f75ef7375e7/AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.2] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/jetified-transport-runtime-2.2.2.aar/54fccf8874644805db51d399908694f4/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.2] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/jetified-transport-runtime-2.2.2.aar/54fccf8874644805db51d399908694f4/AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-database:19.3.1] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/firebase-database-19.3.1.aar/93c9b2d0a5bbf654ff6181105af36259/AndroidManifest.xml:25:22-76
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-database:19.3.1] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/firebase-database-19.3.1.aar/93c9b2d0a5bbf654ff6181105af36259/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-storage:19.1.1] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/firebase-storage-19.1.1.aar/b97443daf244d25b1919d2f82cc7accd/AndroidManifest.xml:30:9-36:19
+MERGED from [com.google.firebase:firebase-storage:19.1.1] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/firebase-storage-19.1.1.aar/b97443daf244d25b1919d2f82cc7accd/AndroidManifest.xml:30:9-36:19
+MERGED from [com.google.firebase:firebase-common:19.3.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/jetified-firebase-common-19.3.0.aar/d3745eb559d8f6708c39cc9f83ea687c/AndroidManifest.xml:32:9-36:35
+MERGED from [com.google.firebase:firebase-common:19.3.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/jetified-firebase-common-19.3.0.aar/d3745eb559d8f6708c39cc9f83ea687c/AndroidManifest.xml:32:9-36:35
+	android:exported
+		ADDED from [com.google.firebase:firebase-database:19.3.1] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/firebase-database-19.3.1.aar/93c9b2d0a5bbf654ff6181105af36259/AndroidManifest.xml:31:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:19.3.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/jetified-firebase-common-19.3.0.aar/d3745eb559d8f6708c39cc9f83ea687c/AndroidManifest.xml:36:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:19.3.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/jetified-firebase-common-19.3.0.aar/d3745eb559d8f6708c39cc9f83ea687c/AndroidManifest.xml:34:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-database:19.3.1] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/firebase-database-19.3.1.aar/93c9b2d0a5bbf654ff6181105af36259/AndroidManifest.xml:30:13-84
+meta-data#com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar
+ADDED from [com.google.firebase:firebase-database:19.3.1] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/firebase-database-19.3.1.aar/93c9b2d0a5bbf654ff6181105af36259/AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-database:19.3.1] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/firebase-database-19.3.1.aar/93c9b2d0a5bbf654ff6181105af36259/AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-database:19.3.1] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/firebase-database-19.3.1.aar/93c9b2d0a5bbf654ff6181105af36259/AndroidManifest.xml:33:17-109
+meta-data#com.google.firebase.components:com.google.firebase.storage.StorageRegistrar
+ADDED from [com.google.firebase:firebase-storage:19.1.1] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/firebase-storage-19.1.1.aar/b97443daf244d25b1919d2f82cc7accd/AndroidManifest.xml:33:13-35:85
+	android:value
+		ADDED from [com.google.firebase:firebase-storage:19.1.1] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/firebase-storage-19.1.1.aar/b97443daf244d25b1919d2f82cc7accd/AndroidManifest.xml:35:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-storage:19.1.1] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/firebase-storage-19.1.1.aar/b97443daf244d25b1919d2f82cc7accd/AndroidManifest.xml:34:17-107
+service#com.google.mlkit.common.internal.MlKitComponentDiscoveryService
+ADDED from [com.google.android.gms:play-services-mlkit-face-detection:16.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/play-services-mlkit-face-detection-16.0.0.aar/26324832df46302d6bc456b3feb921eb/AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.mlkit:vision-common:16.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/vision-common-16.0.0.aar/d3fd2b53fce927fa0843d1cd16868a2e/AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.mlkit:vision-common:16.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/vision-common-16.0.0.aar/d3fd2b53fce927fa0843d1cd16868a2e/AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.mlkit:common:16.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/common-16.0.0.aar/52de3f3393167d60b9f278cf236a7cdc/AndroidManifest.xml:15:9-23:19
+MERGED from [com.google.mlkit:common:16.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/common-16.0.0.aar/52de3f3393167d60b9f278cf236a7cdc/AndroidManifest.xml:15:9-23:19
+	android:exported
+		ADDED from [com.google.android.gms:play-services-mlkit-face-detection:16.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/play-services-mlkit-face-detection-16.0.0.aar/26324832df46302d6bc456b3feb921eb/AndroidManifest.xml:11:13-37
+	tools:targetApi
+		ADDED from [com.google.mlkit:common:16.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/common-16.0.0.aar/52de3f3393167d60b9f278cf236a7cdc/AndroidManifest.xml:19:13-32
+	android:directBootAware
+		ADDED from [com.google.mlkit:common:16.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/common-16.0.0.aar/52de3f3393167d60b9f278cf236a7cdc/AndroidManifest.xml:17:13-43
+	android:name
+		ADDED from [com.google.android.gms:play-services-mlkit-face-detection:16.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/play-services-mlkit-face-detection-16.0.0.aar/26324832df46302d6bc456b3feb921eb/AndroidManifest.xml:10:13-91
+meta-data#com.google.firebase.components:com.google.mlkit.vision.face.internal.FaceRegistrar
+ADDED from [com.google.android.gms:play-services-mlkit-face-detection:16.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/play-services-mlkit-face-detection-16.0.0.aar/26324832df46302d6bc456b3feb921eb/AndroidManifest.xml:12:13-14:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-mlkit-face-detection:16.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/play-services-mlkit-face-detection-16.0.0.aar/26324832df46302d6bc456b3feb921eb/AndroidManifest.xml:14:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-mlkit-face-detection:16.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/play-services-mlkit-face-detection-16.0.0.aar/26324832df46302d6bc456b3feb921eb/AndroidManifest.xml:13:17-114
+meta-data#com.google.firebase.components:com.google.mlkit.vision.common.internal.VisionCommonRegistrar
+ADDED from [com.google.mlkit:vision-common:16.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/vision-common-16.0.0.aar/d3fd2b53fce927fa0843d1cd16868a2e/AndroidManifest.xml:12:13-14:85
+	android:value
+		ADDED from [com.google.mlkit:vision-common:16.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/vision-common-16.0.0.aar/d3fd2b53fce927fa0843d1cd16868a2e/AndroidManifest.xml:14:17-82
+	android:name
+		ADDED from [com.google.mlkit:vision-common:16.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/vision-common-16.0.0.aar/d3fd2b53fce927fa0843d1cd16868a2e/AndroidManifest.xml:13:17-124
+provider#com.google.mlkit.common.internal.MlKitInitProvider
+ADDED from [com.google.mlkit:common:16.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/common-16.0.0.aar/52de3f3393167d60b9f278cf236a7cdc/AndroidManifest.xml:9:9-13:38
+	android:authorities
+		ADDED from [com.google.mlkit:common:16.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/common-16.0.0.aar/52de3f3393167d60b9f278cf236a7cdc/AndroidManifest.xml:11:13-69
+	android:exported
+		ADDED from [com.google.mlkit:common:16.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/common-16.0.0.aar/52de3f3393167d60b9f278cf236a7cdc/AndroidManifest.xml:12:13-37
+	android:initOrder
+		ADDED from [com.google.mlkit:common:16.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/common-16.0.0.aar/52de3f3393167d60b9f278cf236a7cdc/AndroidManifest.xml:13:13-35
+	android:name
+		ADDED from [com.google.mlkit:common:16.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/common-16.0.0.aar/52de3f3393167d60b9f278cf236a7cdc/AndroidManifest.xml:10:13-78
+meta-data#com.google.firebase.components:com.google.mlkit.common.internal.CommonComponentRegistrar
+ADDED from [com.google.mlkit:common:16.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/common-16.0.0.aar/52de3f3393167d60b9f278cf236a7cdc/AndroidManifest.xml:20:13-22:85
+	android:value
+		ADDED from [com.google.mlkit:common:16.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/common-16.0.0.aar/52de3f3393167d60b9f278cf236a7cdc/AndroidManifest.xml:22:17-82
+	android:name
+		ADDED from [com.google.mlkit:common:16.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/common-16.0.0.aar/52de3f3393167d60b9f278cf236a7cdc/AndroidManifest.xml:21:17-120
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/play-services-base-17.0.0.aar/07dd6ad29cd25634ea966ee95c2e555e/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/play-services-base-17.0.0.aar/07dd6ad29cd25634ea966ee95c2e555e/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/play-services-base-17.0.0.aar/07dd6ad29cd25634ea966ee95c2e555e/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/play-services-base-17.0.0.aar/07dd6ad29cd25634ea966ee95c2e555e/AndroidManifest.xml:24:13-79
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:19.3.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/jetified-firebase-common-19.3.0.aar/d3745eb559d8f6708c39cc9f83ea687c/AndroidManifest.xml:26:9-30:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:19.3.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/jetified-firebase-common-19.3.0.aar/d3745eb559d8f6708c39cc9f83ea687c/AndroidManifest.xml:28:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:19.3.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/jetified-firebase-common-19.3.0.aar/d3745eb559d8f6708c39cc9f83ea687c/AndroidManifest.xml:29:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:19.3.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/jetified-firebase-common-19.3.0.aar/d3745eb559d8f6708c39cc9f83ea687c/AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:19.3.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/jetified-firebase-common-19.3.0.aar/d3745eb559d8f6708c39cc9f83ea687c/AndroidManifest.xml:27:13-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-17.0.0.aar/5f5997201540cbcbd05b5ad11dd645a7/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-17.0.0.aar/5f5997201540cbcbd05b5ad11dd645a7/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-17.0.0.aar/5f5997201540cbcbd05b5ad11dd645a7/AndroidManifest.xml:24:13-58
+service#com.google.android.datatransport.runtime.backends.TransportBackendDiscovery
+ADDED from [com.google.android.datatransport:transport-backend-cct:2.2.2] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/jetified-transport-backend-cct-2.2.2.aar/88aea107c5e778709de41f75ef7375e7/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.2] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/jetified-transport-runtime-2.2.2.aar/54fccf8874644805db51d399908694f4/AndroidManifest.xml:36:9-38:40
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.2] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/jetified-transport-runtime-2.2.2.aar/54fccf8874644805db51d399908694f4/AndroidManifest.xml:36:9-38:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.2.2] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/jetified-transport-backend-cct-2.2.2.aar/88aea107c5e778709de41f75ef7375e7/AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.2.2] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/jetified-transport-backend-cct-2.2.2.aar/88aea107c5e778709de41f75ef7375e7/AndroidManifest.xml:30:13-103
+meta-data#backend:com.google.android.datatransport.cct.CctBackendFactory
+ADDED from [com.google.android.datatransport:transport-backend-cct:2.2.2] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/jetified-transport-backend-cct-2.2.2.aar/88aea107c5e778709de41f75ef7375e7/AndroidManifest.xml:32:13-34:39
+	android:value
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.2.2] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/jetified-transport-backend-cct-2.2.2.aar/88aea107c5e778709de41f75ef7375e7/AndroidManifest.xml:34:17-36
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.2.2] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/jetified-transport-backend-cct-2.2.2.aar/88aea107c5e778709de41f75ef7375e7/AndroidManifest.xml:33:17-94
+service#com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService
+ADDED from [com.google.android.datatransport:transport-runtime:2.2.2] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/jetified-transport-runtime-2.2.2.aar/54fccf8874644805db51d399908694f4/AndroidManifest.xml:26:9-30:19
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.2] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/jetified-transport-runtime-2.2.2.aar/54fccf8874644805db51d399908694f4/AndroidManifest.xml:28:13-37
+	android:permission
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.2] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/jetified-transport-runtime-2.2.2.aar/54fccf8874644805db51d399908694f4/AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.2] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/jetified-transport-runtime-2.2.2.aar/54fccf8874644805db51d399908694f4/AndroidManifest.xml:27:13-117
+receiver#com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver
+ADDED from [com.google.android.datatransport:transport-runtime:2.2.2] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/jetified-transport-runtime-2.2.2.aar/54fccf8874644805db51d399908694f4/AndroidManifest.xml:32:9-34:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.2] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/jetified-transport-runtime-2.2.2.aar/54fccf8874644805db51d399908694f4/AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.2] /Users/krishrana/.gradle/caches/transforms-1/files-1.1/jetified-transport-runtime-2.2.2.aar/54fccf8874644805db51d399908694f4/AndroidManifest.xml:33:13-132
